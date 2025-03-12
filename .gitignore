@@ -1,0 +1,9 @@
+# Specify filepatterns you want git to ignore.
+.DS_Store
+*.fdb_latexmk
+*.synctex.gz
+*.aux
+*.fls
+*.log
+*.out
+~$*.docx
